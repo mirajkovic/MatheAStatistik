@@ -1,0 +1,7 @@
+name: matheastatistik
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - matplotlib
+  - scipy
